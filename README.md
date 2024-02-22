@@ -50,7 +50,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pkrao20/pkrao20/output/snake.svg" alt="Snake animation" />
+
+
 <hr/>
 <h4 align="left">Stats</h4>
 <div align="center">
