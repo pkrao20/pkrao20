@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prashant Rao</h1>
-<h3 align="center">A passionate full stack developer with strong interest in competitive programming.</h3>
+<h3 align="left">A passionate full stack developer with strong interest in competitive programming.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pkrao20&label=Profile%20views&color=0e75b6&style=flat" alt="pkrao20" /> </p>
-
+<div align="center">
+  <img height="350" src="[https://cdn.dribbble.com/users/4372216/screenshots/8906085/media/c36005bbe856bd475a106ecaa3b0bf69.gif](https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)"  />
+</div>
+<hr />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/pkrao21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pkrao21" height="30" width="40" /></a>
