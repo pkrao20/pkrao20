@@ -93,7 +93,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pkrao20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="175" alt="stats graph"
     style="margin-bottom: 50px;" />
-  <img src="https://streak-stats.demolab.com?user=rcy08&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5" height="175" alt="streak graph" 
+  <img src="https://streak-stats.demolab.com?user=pkrao20&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5" height="175" alt="streak graph" 
     style="margin-bottom: 50px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pkrao20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&custom_title=Most%20Used%20Languages" height="175" alt="languages graph"  
     style="margin-bottom: 50px;" />
