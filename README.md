@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com" target="_blank">
-    <img src="https://th.bing.com/th/id/OIP.237QhudiSVslBI_CUweU2QAAAA?rs=1&pid=ImgDetMain" height="35" alt="youtube logo"  />
+    <img src="https://th.bing.com/th/id/OIP.J8chDuXZ9tYHG7vP4mqQhQHaEc?rs=1&pid=ImgDetMain" height="35" alt="youtube logo"  />
   </a>
   <a href="https://twitter.com/pkrao21" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
