@@ -40,7 +40,6 @@
   </a>
 </div>
 <hr />
-<br clear="both">
 <h4 align="left">Tool and Frameworks </h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
