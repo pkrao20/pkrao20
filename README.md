@@ -20,7 +20,7 @@
  -->
  <h4 align="left">Connect with me !</h4>
  <div align="center">
-  <a href="https://linkedin.com/in/raopk2020" target="_blank">
+  <a href="https://linkedin.com/in/pkrao20" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:ce200004039@iiti.ac.in" target="_blank">
